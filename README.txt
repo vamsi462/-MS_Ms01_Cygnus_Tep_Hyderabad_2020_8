@@ -14,4 +14,4 @@ using git
 	if you  want to checkout to the branch then use
 		git checkout branchname
 2)changes -> add to staging -> commit
-3) if you want merge 
+3) if you want merge with this branch with another branch then use merging 
