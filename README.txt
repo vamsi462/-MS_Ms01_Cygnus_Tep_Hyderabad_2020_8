@@ -6,3 +6,4 @@ using git
 5)move  it  to  stagging area  , here staging area is imaginry path between working directory and local directory
 6)commit them using commit command
 
+7)  using branches to seperately work on different features which are in emergency
